@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @youkononame
 - 👀 I’m interested in Discord bot development, embedded development, and game development
 - 📫 [I have a website](https://youko.dev)
+- 🎮 [I have another website](https://sparkade.net)
 - ⚡ Fun fact: I have been programming for 57% of my life!
